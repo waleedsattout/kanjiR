@@ -1,3 +1,9 @@
+# What is this?
+This is a fork from [This repo](https://github.com/mmtftr/rtk-search) to use it in my [site](https://jpar.ga).
+
+<br>
+
+# Original ReadMe
 This is a web-based search engine for the book: Remembering the Kanji, Volume I.
 
 [hochanh.github.io/rtk](http://hochanh.github.io/rtk)
